@@ -64,7 +64,6 @@ The main goals of this project are to:
 │
 ├── rapport_projet_Doha_Eve.pdf           # Final written report (French)
 ├── README.md                             # Project documentation
-└── LICENSE                               # MIT License
 
 ```
 ---
@@ -136,6 +135,7 @@ The report is written in French, it includes:
 - stability analysis and interpretations.
 
 This report was prepared for an academic project evaluation.
+
 ---
 
 ## Authors
